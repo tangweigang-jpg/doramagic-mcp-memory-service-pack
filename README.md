@@ -26,7 +26,7 @@ This pack exists so an agent can evaluate, verify, and recover from those failur
 4. If validation fails, open `03_PITFALL_LOG.md` and match the failure to a recovery step.
 
 Quick links:
-[Start](./AGENTS.md) · [Prompt](./01_PROMPT_PREVIEW.md) · [Evals](./06_EVALS/) · [Pitfalls](./03_PITFALL_LOG.md) · [Boundary](./04_BOUNDARY_RISK_CARD.md)
+[Start](./AGENTS.md) · [Prompt](./01_PROMPT_PREVIEW.md) · [Evals](./06_EVALS/) · [Pitfalls](./03_PITFALL_LOG.md) · [Manual](./05_HUMAN_MANUAL.md) · [Boundary](./04_BOUNDARY_RISK_CARD.md)
 
 ## AGENTS.md for Claude Code and AI Coding Agents
 
