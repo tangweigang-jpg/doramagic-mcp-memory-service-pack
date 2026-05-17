@@ -1,23 +1,27 @@
 # GitHub Metadata
 
-Description: MCP Memory Service capability pack for AI coding agents: AGENTS.md, CLAUDE.md, evals, and pitfall recovery for doobidoo/mcp-memory-service. Evaluates memory-pipeline boundaries, consolidation checks, retrieval evals, and recovery paths for stale memory.
+## About
 
-Homepage: https://doramagic.ai/projects/mcp-memory-service/
+Description: MCP Memory Service AI context pack for Claude Code, Codex, Cursor, and Aider: AGENTS.md, CLAUDE.md, prompts, evals, pitfalls, and verification notes for doobidoo/mcp-memory-service.
+
+Homepage: https://doramagic.ai/zh/projects/mcp-memory-service/
 
 Topics:
 
+- mcp-memory-service
+- ai-context-pack
+- ai-coding-agent
+- agents-md
+- claude-code
+- codex
+- cursor
 - agent-memory
+- agentic-ai
 - ai-agents
+- autogen
 - claude
-- knowledge-graph
-- langgraph
-- mcp
-- mcp-server
-- memory
-- model-context-protocol
-- rag
-- semantic-search
-- vector-database
+
+## Interaction Settings
 
 Issues: enabled
 
@@ -27,4 +31,12 @@ Projects: disabled
 
 Wiki: disabled
 
-Social preview: assets/social-preview.svg; upload-ready asset; recommended, not blocking.
+Social preview: upload-ready asset available at `assets/social-preview.svg`; recommended, not blocking.
+
+## Metadata Rationale
+
+- Name keeps the `doramagic-{project-slug}-pack` pattern.
+- Description is unique per repository and frames the asset as a project-specific AI context pack, not a generic Doramagic backlink.
+- Topics combine upstream/project discovery terms with AI coding agent host terms.
+- Homepage points to the best currently available Doramagic project page for structured manual and SEO/GEO continuity.
+- Issue templates collect bug reports, usage questions, and pitfall reports as early traffic-quality signals.
