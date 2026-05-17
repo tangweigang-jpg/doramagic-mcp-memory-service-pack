@@ -1,4 +1,4 @@
-# mcp-memory-service Doramagic Pack
+# MCP Memory Service AI Context Pack for Claude Code, Codex, Cursor, and Aider
 
 Pack version: `v1.0.0` · Last updated: `2026-05-14`
 
@@ -50,7 +50,7 @@ Use this pack when you want an AI agent to safely evaluate `mcp-memory-service` 
 | Eval suite | No | Yes — smoke, boundary, failure checks |
 | Boundary risk card | No | Yes — permissions and hard stops |
 
-This is an independent capability pack for `doobidoo/mcp-memory-service`. It is not affiliated with or endorsed by the upstream project.
+This is an independent AI context resource pack for doobidoo/mcp-memory-service.: host instructions, prompt preview, evals, pitfalls, and recovery rules you can load into Claude Code, Codex, Cursor, Aider, and other AI coding agents.
 
 If this pack helps your agent work from evidence instead of guesses, star the repo so future updates are easier to find. Open an issue for bugs, usage questions, or new pitfall reports.
 
